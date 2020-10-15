@@ -14,6 +14,7 @@ Thumbs.db
 # pretrained network
 vgg16_weights.npz
 *.npz
+*.h5
 
 # custom
 __not
